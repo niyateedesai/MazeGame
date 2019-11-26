@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Maze",
+            "request": "launch",
+            "mainClass": "Maze"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MazeProgram",
+            "request": "launch",
+            "mainClass": "MazeProgram"
+        }
+    ]
+}
